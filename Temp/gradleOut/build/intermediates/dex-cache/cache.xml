@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gavincraft/unity/MemeZag/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="453f7ef63f34c4cfc7c6e10ab39c61f637b7855c">
+        <dex dex="/Users/gavincraft/unity/MemeZag/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_5f319bf3b2e21e6de618c393fbeddbb4fab7fb97.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeZag", "Assembly-CSharp.csproj", "{F26E4776-7B44-49E1-9D65-CE8C2B887651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeZag", "Assembly-CSharp-firstpass.csproj", "{2D9798BE-292D-06EF-A74C-7E7D50137A38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26E4776-7B44-49E1-9D65-CE8C2B887651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26E4776-7B44-49E1-9D65-CE8C2B887651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26E4776-7B44-49E1-9D65-CE8C2B887651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26E4776-7B44-49E1-9D65-CE8C2B887651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9798BE-292D-06EF-A74C-7E7D50137A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9798BE-292D-06EF-A74C-7E7D50137A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9798BE-292D-06EF-A74C-7E7D50137A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9798BE-292D-06EF-A74C-7E7D50137A38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
