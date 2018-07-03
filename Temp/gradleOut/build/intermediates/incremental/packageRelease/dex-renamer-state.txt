@@ -1,4 +1,4 @@
-#Mon Jul 02 16:42:22 EDT 2018
+#Tue Jul 03 10:23:25 EDT 2018
 base.0=/Users/gavincraft/unity/MemeZag/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/gavincraft/unity/MemeZag/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

@@ -30,6 +30,6 @@ public class colliderThing : MonoBehaviour {
 		Invoke("dest", 5f);
 	}
 	void dest(){
-		Destroy(GetComponentInParent<GameObject>());
+		Destroy(gameObject);
 	}
 }

@@ -17,6 +17,8 @@ public class ballController : MonoBehaviour {
 	public GameObject GameOverPane;
 	// Use this for initialization
 	void Start () {
+		//change next line to nexc commented line on production
+		//giveControl();
 		Invoke("giveControl", intro.clip.length+0.2f);
 	}
 	void giveControl(){

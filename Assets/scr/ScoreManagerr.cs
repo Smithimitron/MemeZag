@@ -26,7 +26,9 @@ public class ScoreManagerr : MonoBehaviour {
 	public void addScore(int scoreToAdd){
 		score += scoreToAdd;
 	}
-	
+	public void reportDiamond(){
+		print("adding diamond");
+	}
 	// Update is called once per frame
 	void Update () {
 		bool dead = GetComponentInParent<ballController>().getDead();

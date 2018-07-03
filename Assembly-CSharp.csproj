@@ -60,7 +60,7 @@
      <Compile Include="Assets\scr\diamondScript.cs" />
      <Compile Include="Assets\scr\PlatformSpawner.cs" />
      <Compile Include="Assets\scr\ScoreManagerr.cs" />
-     <Compile Include="Assets\soundmainager.cs" />
+     <Compile Include="Assets\scr\soundmainager.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/gavincraft/unity/MemeZag/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

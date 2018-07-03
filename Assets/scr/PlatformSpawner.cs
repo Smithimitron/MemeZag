@@ -12,7 +12,7 @@ public class PlatformSpawner : MonoBehaviour {
 	
 	void Start () {
 		position=new Vector3(5.5f, 0f, 4.5f);
-		InvokeRepeating("spawnPlatforms", 0.1f, 0.1f);
+		InvokeRepeating("spawnPlatforms", 0.05f, 0.05f);
 	}
 	
 	// Update is called once per frame

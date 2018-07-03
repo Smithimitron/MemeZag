@@ -19,4 +19,7 @@ public class buttonScipt : MonoBehaviour {
 	public void quit(){
 		Application.Quit();
 	}
+	public void play(){
+		Application.LoadLevel(1);
+	}
 }
